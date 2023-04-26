@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...gym and cooding
 - 🌱 I’m currently learning ...fractions and english etc.
 - 💞️ I’m looking to collaborate on ...coding skills+hacking
-- 📫 How to reach me ...on email
+-
 
 
 <!---
